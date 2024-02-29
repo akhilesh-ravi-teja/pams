@@ -9,7 +9,7 @@ $BASE_URL= 'http://localhost/pams';
 $servername = "localhost";
 $username = "root";
 $password = "";
-$db="pms-test";
+$db="pams";
 
 // function pr($input){
 //     echo "<pre>";
