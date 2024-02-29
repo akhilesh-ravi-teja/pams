@@ -3,6 +3,7 @@
 $array = array(3, 5, 2, 9);
 $duplicates = array_duplicates($array);
 var_dump($duplicates);
+$test = '';
 
 function array_duplicates(array $array)
 {
