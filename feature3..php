@@ -1,2 +1,2 @@
 <?php
-echo "feature3";
+echo "feature3 final";
