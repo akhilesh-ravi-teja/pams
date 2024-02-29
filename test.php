@@ -2,7 +2,7 @@
 
 $array = array(3, 5, 2, 9);
 $duplicates = array_duplicates($array);
-print_r($duplicates);
+var_dump($duplicates);
 
 function array_duplicates(array $array)
 {
